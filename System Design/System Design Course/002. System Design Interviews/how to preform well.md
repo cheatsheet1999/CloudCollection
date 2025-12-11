@@ -158,14 +158,4 @@ The don'ts of a system design interview
 If the interviewer asks about a system you’ve never heard of, be honest.  
 They will explain it or change the question.
 
----
-
-**Back**  
-*How to Prepare for Success*
-
-**Mark As Completed**
-
----
-
-# Next  
 **Let AI Evaluate your System Design Interview Preparation**
