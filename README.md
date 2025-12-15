@@ -1,7 +1,6 @@
 # CloudCollection (Keep updating everyday, hopefully...)
 
 ## Web Development Basics
-### HTML 📖
 [1. What happens when you type in a URL](https://github.com/cheatsheet1999/FrontEndCollection/issues/2)  
 [2. GET vs POST](https://github.com/cheatsheet1999/FrontEndCollection/issues/4)  
 <a href="https://github.com/cheatsheet1999/FrontEndCollection/issues/5">3. What can we do to improve a website's performance?</a>  
@@ -14,330 +13,220 @@
 [10. A brief introduction of the differences between "src" and "href"](https://github.com/cheatsheet1999/FrontEndCollection/issues/29)  
 [11. A brief introduction of Call, Apply, Bind](https://github.com/cheatsheet1999/FrontEndCollection/issues/30)  
 [12. Time and space complexity for common sorting algorithm](https://github.com/cheatsheet1999/FrontEndCollection/issues/9)  
-
-### CSS 💎
-[1. What is the difference between display:none and visibility:hidden style?](https://github.com/cheatsheet1999/FrontEndCollection/issues/37)  
-[2. What is BFC(Block Formatting Context)](https://github.com/cheatsheet1999/FrontEndCollection/issues/38)
+[13. What is the difference between display:none and visibility:hidden style?](https://github.com/cheatsheet1999/FrontEndCollection/issues/37)  
+[14. What is BFC(Block Formatting Context)](https://github.com/cheatsheet1999/FrontEndCollection/issues/38)
 
 ### JavaScript Concepts 📦
-[`this` keyword](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/Web-Note/%60this%60%20keyword.md)   
-[Bubbling and Capturing](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/Web-Note/Bubbling%20and%20Capturing.md)   
-[Execution Context](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/Web-Note/Execution%20Context.md)   
-[Higher Order Function](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/Web-Note/Functions%20%26%20Callbacks.md)      
-[Event Loop](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/Web-Note/Single%20Thread,%20Event%20Loop%20&%20Blocking%20Code.md)      
-[Closures](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/Web-Note/Closures.md)   
-[Throttling and Debouncing](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/Web-Note/Throttling%20and%20Debouncing.md)   
-[Promises](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/Web-Note/Promises.md)    
+[1. `this` keyword](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/Web-Note/%60this%60%20keyword.md)   
+[2. Bubbling and Capturing](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/Web-Note/Bubbling%20and%20Capturing.md)   
+[3. Execution Context](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/Web-Note/Execution%20Context.md)   
+[4. Higher Order Function](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/Web-Note/Functions%20%26%20Callbacks.md)      
+[5. Event Loop](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/Web-Note/Single%20Thread,%20Event%20Loop%20&%20Blocking%20Code.md)      
+[6. Closures](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/Web-Note/Closures.md)   
+[7. Throttling and Debouncing](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/Web-Note/Throttling%20and%20Debouncing.md)   
+[8. Promises](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/Web-Note/Promises.md) 
+[9. Consuming Promises](https://github.com/cheatsheet1999/FrontEndCollection/tree/main/JS-Day/Consuming%20Promises)      
+[10. Controlled Components](https://github.com/cheatsheet1999/FrontEndCollection/tree/main/Web-Note/Controlled%20Components)   
+[11. ExpenseTracker](https://github.com/cheatsheet1999/FrontEndCollection/tree/main/React/ExpenseTracker)    
+[12. Receive input](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Day/Receive%20input/preview.md)     
+[13. Accordion](https://github.com/cheatsheet1999/FrontEndCollection/issues/17)   
+[14. ModalBox](https://github.com/cheatsheet1999/FrontEndCollection/issues/23)  
+[15. Drum Kit](https://github.com/cheatsheet1999/FrontEndCollection/tree/main/JS-Day/DrumKit)  
+[16. Mini Clock](https://github.com/cheatsheet1999/FrontEndCollection/tree/main/JS-Day/Mini%20Clock)  
+[17. Playing with Variables](https://github.com/siyuan25/FrontEndCollection/tree/main/JS-Day/Playing%20with%20Variables)  
+### Deep Dive in Javascript 
+[18. Implement Curry()](https://github.com/cheatsheet1999/FrontEndCollection/issues/33)   
+[19. implement Array.prototype.flat()](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Core/implement%20Array.prototype.flat().md)  
+[20. Implement curry() with placeholder support](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Core/implement%20curry()%20with%20placeholder%20support.md)
 
-### JavaScript Demos 🖥
-[Consuming Promises](https://github.com/cheatsheet1999/FrontEndCollection/tree/main/JS-Day/Consuming%20Promises)     
+## Data Structure and Algorithms
+### Array & Two Pointers
 
-### React Concepts 💡   
-[Controlled Components](https://github.com/cheatsheet1999/FrontEndCollection/tree/main/Web-Note/Controlled%20Components)   
+[0001. Two Sum](/Data%20Structure%20and%20Algorithms/LeetCode/0001.%20Two%20Sum.md)  
+[0011. Container With Most Water](/Data%20Structure%20and%20Algorithms/LeetCode/0011.%20Container%20With%20Most%20Water.md)  
+[0015. 3Sum](/Data%20Structure%20and%20Algorithms/LeetCode/0015.%203Sum.md)  
+[0016. 3Sum Closest](/Data%20Structure%20and%20Algorithms/LeetCode/0016.%203Sum%20Closest.md)  
+[0018. 4Sum](/Data%20Structure%20and%20Algorithms/LeetCode/0018.%204Sum.md)  
+[0027. Remove Element](/Data%20Structure%20and%20Algorithms/LeetCode/0027.%20Remove%20Element.md)  
+[0031. Next Permutation](/Data%20Structure%20and%20Algorithms/LeetCode/0031.%20Next%20Permutation.md)  
+[0042. Trapping Rain Water](/Data%20Structure%20and%20Algorithms/LeetCode/0042.%20Trapping%20Rain%20Water.md)  
+[0066. Plus One](/Data%20Structure%20and%20Algorithms/LeetCode/0066.%20Plus%20One.md)  
+[0075. Sort Colors](/Data%20Structure%20and%20Algorithms/LeetCode/0075.%20Sort%20Colors.md)  
+[0088. Merge Sorted Array](/Data%20Structure%20and%20Algorithms/LeetCode/0088.%20Merge%20Sorted%20Array.md)  
+[0189. Rotate Array](/Data%20Structure%20and%20Algorithms/LeetCode/0189.%20Rotate%20Array.md)  
+[0283. Move Zeroes](/Data%20Structure%20and%20Algorithms/LeetCode/0283.%20Move%20Zeroes.md)  
+[0347. Top K Frequent Elements](/Data%20Structure%20and%20Algorithms/LeetCode/0347.%20Top%20K%20Frequent%20Elements.md)  
+[0350. Intersection of Two Arrays II](/Data%20Structure%20and%20Algorithms/LeetCode/0350.%20Intersection%20of%20Two%20Arrays%20II.md)  
+[0238. Product of Array Except Self](/Data%20Structure%20and%20Algorithms/LeetCode/0238.%20Product%20of%20Array%20Except%20Self.md)  
 
-### React Projects (In ascending order of difficulty)
-[ExpenseTracker](https://github.com/cheatsheet1999/FrontEndCollection/tree/main/React/ExpenseTracker)        
+### String
 
-### Node.js Demos 🟢
-[Receive input](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Day/Receive%20input/preview.md)     
-  
-## Projects
-[1. Accordion](https://github.com/cheatsheet1999/FrontEndCollection/issues/17)   
-[2. ModalBox](https://github.com/cheatsheet1999/FrontEndCollection/issues/23)  
-[3. Drum Kit](https://github.com/cheatsheet1999/FrontEndCollection/tree/main/JS-Day/DrumKit)  
-[4. Mini Clock](https://github.com/cheatsheet1999/FrontEndCollection/tree/main/JS-Day/Mini%20Clock)  
-[5. Playing with Variables](https://github.com/siyuan25/FrontEndCollection/tree/main/JS-Day/Playing%20with%20Variables)  
+[0003. Longest Substring Without Repeating Characters](/Data%20Structure%20and%20Algorithms/LeetCode/0003.%20Longest%20Substring%20Without%20Repeating%20Characters.md)  
+[0005. Longest Palindromic Substring](/Data%20Structure%20and%20Algorithms/LeetCode/0005.%20Longest%20Palindromic%20Substring.md)  
+[0006. Zigzag Conversion](/Data%20Structure%20and%20Algorithms/LeetCode/0006.%20Zigzag%20Conversion.md)  
+[0012. Integer to Roman](/Data%20Structure%20and%20Algorithms/LeetCode/0012.%20Integer%20to%20Roman.md)  
+[0013. Roman to Integer](/Data%20Structure%20and%20Algorithms/LeetCode/0013.%20Roman%20to%20Integer.md)  
+[0028. Find the Index of the First Occurrence in a String](/Data%20Structure%20and%20Algorithms/LeetCode/0028.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.md)  
+[0038. Count and Say](/Data%20Structure%20and%20Algorithms/LeetCode/0038.%20Count%20and%20Say.md)  
+[0043. Multiply Strings](/Data%20Structure%20and%20Algorithms/LeetCode/0043.%20Multiply%20Strings.md)  
+[0058. Length of Last Word](/Data%20Structure%20and%20Algorithms/LeetCode/0058.%20Length%20of%20Last%20Word.md)  
+[0344. Reverse String](/Data%20Structure%20and%20Algorithms/LeetCode/0344.%20Reverse%20String.md)  
+[0929. Unique Email Addresses](/Data%20Structure%20and%20Algorithms/LeetCode/0929.%20Unique%20Email%20Addresses.md)  
+[1209. Remove All Adjacent Duplicates in String II](/Data%20Structure%20and%20Algorithms/LeetCode/1209.%20Remove%20All%20Adjacent%20Duplicates%20in%20String%20II.md)  
+[Count Binary Substrings](/Data%20Structure%20and%20Algorithms/LeetCode/Count%20Binary%20Substrings.md)  
+[Decode String](/Data%20Structure%20and%20Algorithms/LeetCode/Decode%20String.md)  
+[Reorganize String](/Data%20Structure%20and%20Algorithms/LeetCode/Reorganize%20String.md)  
+[Anagram Difference](/Data%20Structure%20and%20Algorithms/LeetCode/Anagram%20Difference.md)  
 
-## Deep Dive in Javascript 
-[_Learn More on BFE.dev_](https://bigfrontend.dev/)  
+### Linked List
 
-[1. Implement Curry()](https://github.com/cheatsheet1999/FrontEndCollection/issues/33)   
-[2. implement Array.prototype.flat()](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Core/implement%20Array.prototype.flat().md)  
-[3. Implement curry() with placeholder support](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Core/implement%20curry()%20with%20placeholder%20support.md)  
+[0002. Add Two Numbers](/Data%20Structure%20and%20Algorithms/LeetCode/0002.%20Add%20Two%20Numbers.md)  
+[0019. Remove Nth Node From End of List](/Data%20Structure%20and%20Algorithms/LeetCode/0019.%20Remove%20Nth%20Node%20From%20End%20of%20List.md)  
+[0021. Merge Two Sorted Lists](/Data%20Structure%20and%20Algorithms/LeetCode/0021.%20Merge%20Two%20Sorted%20Lists.md)  
+[0024. Swap Nodes in Pairs](/Data%20Structure%20and%20Algorithms/LeetCode/0024.%20Swap%20Nodes%20in%20Pairs.md)  
+[0061. Rotate List](/Data%20Structure%20and%20Algorithms/LeetCode/0061.%20Rotate%20List.md)  
+[0083. Remove Duplicates from Sorted List](/Data%20Structure%20and%20Algorithms/LeetCode/0083.%20Remove%20Duplicates%20from%20Sorted%20List.md)  
+[0092. Reverse Linked List II](/Data%20Structure%20and%20Algorithms/LeetCode/0092.%20Reverse%20Linked%20List%20II.md)  
+[0160. Intersection of Two Linked Lists](/Data%20Structure%20and%20Algorithms/LeetCode/0160.%20Intersection%20of%20Two%20Linked%20Lists.md)  
+[0206. Reverse Linked List](/Data%20Structure%20and%20Algorithms/LeetCode/0206.%20Reverse%20Linked%20List.md)  
+[0234. Palindrome Linked List](/Data%20Structure%20and%20Algorithms/LeetCode/0234.%20Palindrome%20Linked%20List.md)  
+[0876. Middle of the Linked List](/Data%20Structure%20and%20Algorithms/LeetCode/0876.%20Middle%20of%20the%20Linked%20List.md)  
 
-## Data Structures & Algorithms
+### Tree
 
-### Solve the questions on [Codewar](https://www.codewars.com/) if you are a beginner
-[Beginners](https://github.com/cheatsheet1999/FrontEndCollection/tree/main/JS-Algo/Beginners)   
+[0094. Binary Tree Inorder Traversal](/Data%20Structure%20and%20Algorithms/LeetCode/0094.%20Binary%20Tree%20Inorder%20Traversal.md)  
+[0098. Validate Binary Search Tree](/Data%20Structure%20and%20Algorithms/LeetCode/0098.%20Validate%20Binary%20Search%20Tree.md)  
+[0100. Same Tree](/Data%20Structure%20and%20Algorithms/LeetCode/0100.%20Same%20Tree.md)  
+[0101. Symmetric Tree](/Data%20Structure%20and%20Algorithms/LeetCode/0101.%20Symmetric%20Tree.md)  
+[0104. Maximum Depth of Binary Tree](/Data%20Structure%20and%20Algorithms/LeetCode/0104.%20Maximum%20Depth%20of%20Binary%20Tree.md)  
+[0105. Construct Binary Tree from Preorder and Inorder Traversal](/Data%20Structure%20and%20Algorithms/LeetCode/0105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.md)  
+[0106. Construct Binary Tree from Inorder and Postorder Traversal](/Data%20Structure%20and%20Algorithms/LeetCode/0106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.md)  
+[0108. Convert Sorted Array to Binary Search Tree](/Data%20Structure%20and%20Algorithms/LeetCode/0108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md)  
+[0110. Balanced Binary Tree](/Data%20Structure%20and%20Algorithms/LeetCode/0110.%20Balanced%20Binary%20Tree.md)  
+[0112. Path Sum](/Data%20Structure%20and%20Algorithms/LeetCode/0112.%20Path%20Sum.md)  
+[0113. Path Sum II](/Data%20Structure%20and%20Algorithms/LeetCode/0113.%20Path%20Sum%20II.md)  
+[0117. Populating Next Right Pointers](/Data%20Structure%20and%20Algorithms/LeetCode/0117.%20Populating%20Next%20Right%20Pointers.md)  
+[0230. Kth Smallest Element in a BST](/Data%20Structure%20and%20Algorithms/LeetCode/0230.%20Kth%20Smallest%20Element%20in%20a%20BST.md)  
+[0297. Serialize and Deserialize Binary Tree](/Data%20Structure%20and%20Algorithms/LeetCode/0297.%20Serialize%20and%20Deserialize%20Binary%20Tree.md)  
+[0426. Convert Binary Search Tree to Sorted Doubly Linked List](/Data%20Structure%20and%20Algorithms/LeetCode/0426.%20Convert%20Binary%20Search%20Tree%20to%20Sorted%20Doubly%20Linked%20List.md)  
+[0530. Minimum Absolute Difference in BST](/Data%20Structure%20and%20Algorithms/LeetCode/0530.%20Minimum%20Absolute%20Difference%20in%20BST.md)  
+[0543. Diameter of Binary Tree](/Data%20Structure%20and%20Algorithms/LeetCode/0543.%20Diameter%20of%20Binary%20Tree.md)  
+[Lowest Common Ancestor of a Binary Tree](/Data%20Structure%20and%20Algorithms/LeetCode/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md)  
+[Recover Binary Search Tree](/Data%20Structure%20and%20Algorithms/LeetCode/Recover%20Binary%20Search%20Tree.md)  
+[Sum Root to Leaf Numbers](/Data%20Structure%20and%20Algorithms/LeetCode/Sum%20Root%20to%20Leaf%20Numbers.md)  
 
-<details>
-<summary><strong>Array</strong></summary>
+### Backtracking
 
+[0017. Letter Combinations of a Phone Number](/Data%20Structure%20and%20Algorithms/LeetCode/0017.%20Letter%20Combinations%20of%20a%20Phone%20Number.md)  
+[0022. Generate Parentheses](/Data%20Structure%20and%20Algorithms/LeetCode/0022.%20Generate%20Parentheses.md)  
+[0036. Valid Sudoku](/Data%20Structure%20and%20Algorithms/LeetCode/0036.%20Valid%20Sudoku.md)  
+[0039. Combination Sum](/Data%20Structure%20and%20Algorithms/LeetCode/0039.%20Combination%20Sum.md)  
+[0040. Combination Sum II](/Data%20Structure%20and%20Algorithms/LeetCode/0040.%20Combination%20Sum%20II.md)  
+[0046. Permutations](/Data%20Structure%20and%20Algorithms/LeetCode/0046.%20Permutations.md)  
+[0047. Permutations II](/Data%20Structure%20and%20Algorithms/LeetCode/0047.%20Permutations%20II.md)  
+[0077. Combinations](/Data%20Structure%20and%20Algorithms/LeetCode/0077.%20Combinations.md)  
+[0212. Word Search II](/Data%20Structure%20and%20Algorithms/LeetCode/0212.%20Word%20Search%20II.md)  
 
-[0001. Two Sum](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/0001.%20Two%20Sum.md)           
-[Two Sum II - Input Array Is Sorted](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.md)   
-[0011. Container With Most Water](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/0011.%20Container%20With%20Most%20Water.md)      
-[0026. Remove Duplicates from Sorted Array.md](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/0026.%20Remove%20Duplicates%20from%20Sorted%20Array.md)        
-[Search Insert Position](https://github.com/cheatsheet1999/FrontEndCollection/issues/26)  
-[Squares of a Sorted Array](https://github.com/cheatsheet1999/FrontEndCollection/issues/31)        
-[Last and Second Last](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Last%20and%20Second%20Last.md)  
-[Rotate Array](https://github.com/cheatsheet1999/FrontEndCollection/issues/32)  
-[Meeting Rooms II](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Meeting%20Rooms%20II.md)  
-[Intersection of Two Arrays II](https://github.com/cheatsheet1999/FrontEndCollection/issues/36)  
-[Remove Nth Node From End of List](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Remove%20Nth%20Node%20From%20End%20of%20List.md)  
-[K Closest Points to Origin](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/K%20Closest%20Points%20to%20Origin.md) 
-[Maximum Subarray](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Maximum%20Subarray.md)        
-[Best Time to Buy and Sell Stock](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)  
-[First Bad Version](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/First%20Bad%20Version.md)    
-[Meeting Rooms](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Meeting%20Rooms.md)   
-[Trapping Rain Water](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Trapping%20Rain%20Water.md)  
-[Product of Array Except Self](https://github.com/cheatsheet1999/FrontEndCollection/issues/1)  
-[Merge Intervals](https://github.com/cheatsheet1999/FrontEndCollection/issues/3)   
-[Longest Consecutive Sequence](https://github.com/cheatsheet1999/FrontEndCollection/issues/7)  
-[Spiral Matrix](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Spiral%20Matrix.md)     
-[Coin Change](https://github.com/cheatsheet1999/FrontEndCollection/issues/13)  
-[Gas Station](https://github.com/cheatsheet1999/FrontEndCollection/issues/15)  
-[Top K Frequent Elements](https://github.com/cheatsheet1999/FrontEndCollection/issues/19)  
-[3 Sum](https://github.com/cheatsheet1999/FrontEndCollection/issues/20)  
-[Count Binary Substrings](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Count%20Binary%20Substrings.md)  
-[Word Search](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Word%20Search.md)  
-[Subarray Sum Equals K](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Subarray%20Sum%20Equals%20K.md)  
-[Subdomain Visit Count](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Subdomain%20Visit%20Count.md)  
-[Next Permutation](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Next%20Permutation.md)  
-[Expressive Words](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Expressive%20Words.md)   
-[Verifying an Alien Dictionary](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Verifying%20an%20Alien%20Dictionary.md)  
-[4Sum(nSum universal solution)](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/4Sum.md)  
-[3Sum Closest](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/3Sum%20Closest.md)   
-[Jump Game](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Jump%20Game.md)   
-[Jump Game II](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Jump%20Game%20II.md)    
-[Minimum Size Subarray Sum](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Minimum%20Size%20Subarray%20Sum.md)   
-[Matrix Summation](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Matrix%20Summation.md)  
-[Counting Analogous Arrays](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Counting%20Analogous%20Arrays.md)  
-[Custom Sorted Array](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Custom%20Sorted%20Array.md)         
-[Reformat Date](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Reformat%20Date.md)          
-[Game of Life](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Game%20of%20Life.md)        
-[Search a 2D Matrix II](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Search%20a%202D%20Matrix%20II.md)     
-[Kth Largest Element in an Array](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Kth%20Largest%20Element%20in%20an%20Array.md)     
-[Insert Delete GetRandom O(1)](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Insert%20Delete%20GetRandom%20O(1).md)     
-[Reaching Points](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Reaching%20Points.md)     
-[Pow(x, n)](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Pow(x%2C%20n).md)    
-[Sum of Square Numbers](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Sum%20of%20Square%20Numbers.md)     
-[Minimum Moves to Equal Array Elements](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Minimum%20Moves%20to%20Equal%20Array%20Elements.md)
-[Buying Show Tickets](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Buying%20Show%20Tickets.md)     
-[Count Duplicate Elements](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Count%20Duplicate%20Elements.md)   
-[Password Creation](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Password%20Creation.md)  
+### Graphs, BFS & DFS
 
-</details>
- 
- 
- 
-<details>
-<summary><strong>Two Pointers</strong></summary>
-  
-[0015. 3Sum](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/0015.%203Sum.md)           
-[0016. 3Sum Closest](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/0016.%203Sum%20Closest.md)
-[0283. Move Zeroes](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/0283.%20Move%20Zeroes.md)
+[0329. Longest Increasing Path in a Matrix](/Data%20Structure%20and%20Algorithms/LeetCode/0329.%20Longest%20Increasing%20Path%20in%20a%20Matrix.md)  
+[1091. Shortest Path in Binary Matrix](/Data%20Structure%20and%20Algorithms/LeetCode/1091.%20Shortest%20Path%20in%20Binary%20Matrix.md)  
+[Max Area of Island](/Data%20Structure%20and%20Algorithms/LeetCode/Max%20Area%20of%20Island.md)  
+[Number of Islands](/Data%20Structure%20and%20Algorithms/LeetCode/Number%20of%20Islands.md)  
+[Rotting Oranges](/Data%20Structure%20and%20Algorithms/LeetCode/Rotting%20Oranges.md)  
+[Minimum Knight Moves](/Data%20Structure%20and%20Algorithms/LeetCode/Minimum%20Knight%20Moves.md)  
 
-</details>
- 
+### Binary Search & Search
 
-<details>
-<summary><strong>String</strong></summary>
+[0033. Search in Rotated Sorted Array](/Data%20Structure%20and%20Algorithms/LeetCode/0033.%20Search%20in%20Rotated%20Sorted%20Array.md)  
+[0034. Find First and Last Position of Element in Sorted Array](/Data%20Structure%20and%20Algorithms/LeetCode/0034.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md)  
+[0035. Search Insert Position](/Data%20Structure%20and%20Algorithms/LeetCode/0035.%20Search%20Insert%20Position.md)  
+[0290. Word Pattern](/Data%20Structure%20and%20Algorithms/LeetCode/0290.%20Word%20Pattern.md)  
 
-<ul>
-<details>
-<summary>Palindrome</summary>
+### Dynamic Programming
 
-[0005. Longest Palindromic Substring](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/0005.%20Longest%20Palindromic%20Substring.md).            
-[0009. Palindrome Number](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/0009.%20Palindrome%20Number.md)       
-  
-</details>
-</ul>
+[0062. Unique Paths](/Data%20Structure%20and%20Algorithms/LeetCode/0062.%20Unique%20Paths.md)  
+[0118. Pascal's Triangle](/Data%20Structure%20and%20Algorithms/LeetCode/0118.%20Pascal's%20Triangle.md)  
+[0119. Pascal's Triangle II](/Data%20Structure%20and%20Algorithms/LeetCode/0119.%20Pascal's%20Triangle%20II.md)  
+[Maximum Subarray](/Data%20Structure%20and%20Algorithms/LeetCode/Maximum%20Subarray.md)  
 
+### Hash Map & Set
 
-<ul>
-<details>
-  <summary> Uncategorized </summary>
+[0049. Group Anagrams](/Data%20Structure%20and%20Algorithms/LeetCode/0049.%20Group%20Anagrams.md)  
+[0128. Longest Consecutive Sequence](/Data%20Structure%20and%20Algorithms/LeetCode/0128.%20Longest%20Consecutive%20Sequence.md)  
+[0217. Contains Duplicate](/Data%20Structure%20and%20Algorithms/LeetCode/0217.%20Contains%20Duplicate.md)  
+[0219. Contains Duplicate II](/Data%20Structure%20and%20Algorithms/LeetCode/0219.%20Contains%20Duplicate%20II.md)  
+[0349. Intersection of Two Arrays](/Data%20Structure%20and%20Algorithms/LeetCode/0349.%20Intersection%20of%20Two%20Arrays.md)  
+[0448. Find All Numbers Disappeared in an Array](/Data%20Structure%20and%20Algorithms/LeetCode/0448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.md)  
+[0560. Subarray Sum Equals K](/Data%20Structure%20and%20Algorithms/LeetCode/0560.%20Subarray%20Sum%20Equals%20K.md)  
 
-[0006. Zigzag Conversion](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/0006.%20Zigzag%20Conversion.md)    
-[0007. Reverse Integer](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/0007.%20Reverse%20Integer.md)      
-[0014. Longest Common Prefix](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/0014.%20Longest%20Common%20Prefix.md)       
-[Reverse String](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Reverse%20String.md)    
-[Reverse Words in a String III](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Reverse%20Words%20in%20a%20String%20III.md)      
-[Longest Common Prefix](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Longest%20Common%20Prefix.md)    
-[Valid Palindrome II](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Valid%20Palindrome%20II.md)     
-[Longest Substring Without Repeating Characters](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Longest%20Substring%20Without%20Repeating%20Characters.md)   
-[Letter Combinations of a Phone Number](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Letter%20Combinations%20of%20a%20Phone%20Number.md)   
-[Generate Parentheses](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Generate%20Parentheses.md)   
-[Decode String](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Decode%20String.md)   
-[Longest Palindromic Substring](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Longest%20Palindromic%20Substring.md)   
-[Time Based Key-Value Store](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Time%20Based%20Key-Value%20Store.md)  
-[Longest String Chain](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Longest%20String%20Chain.md)  
-[Robot Bounded In Circle](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Robot%20Bounded%20In%20Circle.md)  
-[Word Break](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Word%20Break.md)    
-[Minimum Number of Steps to Make Two Strings Anagram](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram.md)      
-[Reorganize String](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Reorganize%20String.md)    
-[Group Anagrams](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Group%20Anagrams.md)    
-[Shortest Word Distance II](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Shortest%20Word%20Distance%20II.md)          
-[Simplify Path](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Simplify%20Path.md)       
-[Search Suggestions System](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Search%20Suggestions%20System.md)           
-[Remove All Adjacent Duplicates in String II](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Remove%20All%20Adjacent%20Duplicates%20in%20String%20II.md)      
-[Fraction to Recurring Decimal](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Fraction%20to%20Recurring%20Decimal.md)     
-[Accounts Merge](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Accounts%20Merge.md)     
-[Longest Happy String](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Longest%20Happy%20String.md)    
-[Minimum Deletions to Make Character Frequencies Unique](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Minimum%20Deletions%20to%20Make%20Character%20Frequencies%20Unique.md)     
- 
-</details>
-</ul>
+### Math & Number Theory
 
+[0007. Reverse Integer](/Data%20Structure%20and%20Algorithms/LeetCode/0007.%20Reverse%20Integer.md)  
+[0009. Palindrome Number](/Data%20Structure%20and%20Algorithms/LeetCode/0009.%20Palindrome%20Number.md)  
+[0050. Pow(x, n)](/Data%20Structure%20and%20Algorithms/LeetCode/0050.%20Pow(x,%20n).md)  
+[0367. Valid Perfect Square](/Data%20Structure%20and%20Algorithms/LeetCode/0367.%20Valid%20Perfect%20Square.md)  
+[0441. Arranging Coins](/Data%20Structure%20and%20Algorithms/LeetCode/0441.%20Arranging%20Coins.md)  
+[Sum of Square Numbers](/Data%20Structure%20and%20Algorithms/LeetCode/Sum%20of%20Square%20Numbers.md)  
 
+### Matrix
 
-</details>
+[0048. Rotate Image](/Data%20Structure%20and%20Algorithms/LeetCode/0048.%20Rotate%20Image.md)  
+[0054. Spiral Matrix](/Data%20Structure%20and%20Algorithms/LeetCode/0054.%20Spiral%20Matrix.md)  
+[0059. Spiral Matrix II](/Data%20Structure%20and%20Algorithms/LeetCode/0059.%20Spiral%20Matrix%20II.md)  
+[0542. 01 Matrix](/Data%20Structure%20and%20Algorithms/LeetCode/0542.%2001%20Matrix.md)  
+[0329. Longest Increasing Path in a Matrix](/Data%20Structure%20and%20Algorithms/LeetCode/0329.%20Longest%20Increasing%20Path%20in%20a%20Matrix.md)  
 
-<details>
-<summary><strong>Stack</strong></summary>
+### Design & Misc
 
-[Buildings With an Ocean View](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Buildings%20With%20an%20Ocean%20View.md)    
-[Valid Parentheses](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Valid%20Parentheses.md)    
-[Minimum Remove to Make Valid Parentheses](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Minimum%20Remove%20to%20Make%20Valid%20Parentheses.md)  
+[0380. Insert Delete GetRandom O(1)](/Data%20Structure%20and%20Algorithms/LeetCode/0380.%20Insert%20Delete%20GetRandom%20O(1).md)  
+[LRU Cache](/Data%20Structure%20and%20Algorithms/LeetCode/LRU%20Cache.md)  
+[Design Linked List](/Data%20Structure%20and%20Algorithms/LeetCode/Design%20Linked%20List.md)  
+[Time Based Key-Value Store](/Data%20Structure%20and%20Algorithms/LeetCode/Time%20Based%20Key-Value%20Store.md)  
+[Top K Frequent Words](/Data%20Structure%20and%20Algorithms/LeetCode/Top%20K%20Frequent%20Words.md)  
+[Binary Search](/Data%20Structure%20and%20Algorithms/LeetCode/Binary%20Search.md)  
+[Accounts Merge](/Data%20Structure%20and%20Algorithms/LeetCode/Accounts%20Merge.md)  
+[Combinations](/Data%20Structure%20and%20Algorithms/LeetCode/Combinations.md)
+[Verifying an Alien Dictionary](/Data%20Structure%20and%20Algorithms/LeetCode/Verifying%20an%20Alien%20Dictionary.md)  
+[Word Break](/Data%20Structure%20and%20Algorithms/LeetCode/Word%20Break.md)  
 
-</details>
+---
 
-<details>
-<summary><strong>Map</strong></summary>
-  
-[0560. Subarray Sum Equals K](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/0560.%20Subarray%20Sum%20Equals%20K.md)
-  
-</details>
+## Beginners
 
-<details>
-<summary><strong>Set</strong></summary>
-  
-[0003. Longest Substring Without Repeating Characters](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/0003.%20Longest%20Substring%20Without%20Repeating%20Characters.md)     
-  
-</details>
-
-
-<details>
-<summary><strong>Object Manipulation</strong></summary>
- 
-[0012. Integer to Roman](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/0012.%20Integer%20to%20Roman.md)      
-[0013. Roman to Integer](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/0013.%20Roman%20to%20Integer.md)           
-  
-</details>
-
-
-<details>
-<summary><strong>Linked-List </strong></summary>  
-  
-[0002. Add Two Numbers](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/0002.%20Add%20Two%20Numbers.md)    
-[206. Reverse Linked List](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/206.%20Reverse%20Linked%20List.md)     
-[Linked List Cycle](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Linked%20List%20Cycle.md)   
-[Middle of the Linked List](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Middle%20of%20the%20Linked%20List.md)    
-[Linked List Cycle II](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Linked%20List%20Cycle%20II.md)   
-[Add Two Numbers](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Add%20Two%20Numbers.md)  
-[Design Linked List](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Design%20Linked%20List.md)        
-[LRU Cache](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/LRU%20Cache.md)   
-
-</details>
-</ul>
-
-<details>
-<summary><strong>Tree</strong></summary>
-
-<ul>
-<details>
-  <summary> ⭐ </summary>
-
-[Binary Tree Preorder Traversal](https://github.com/cheatsheet1999/FrontEndCollection/issues/21)  
-[Binary Tree Inorder Traversal](https://github.com/cheatsheet1999/FrontEndCollection/issues/22)  
-
-</details>
-</ul>
-
-<ul>
-<details>
-  <summary> ⭐⭐ </summary>
-  
-[Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/cheatsheet1999/FrontEndCollection/issues/8)  
-[Invert Binary Tree](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Invert%20Binary%20Tree.md)     
-[Lowest Common Ancestor of a Binary Tree](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md)        
-[Recover Binary Search Tree](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Recover%20Binary%20Search%20Tree.md)    
-
-</details>
-</ul>
-
-<ul>
-<details>
-  <summary> ⭐⭐⭐ </summary>
-  
-[Range Sum of BST](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Range%20Sum%20of%20BST.md)    
-[Binary Tree Vertical Order Traversal](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Binary%20Tree%20Vertical%20Order%20Traversal.md)   
-[Validate Binary Search Tree](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Validate%20Binary%20Search%20Tree.md)     
-[Sum Root to Leaf Numbers](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Sum%20Root%20to%20Leaf%20Numbers.md)       
-[Binary Tree Right Side View](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Binary%20Tree%20Right%20Side%20View.md)  
-
-</details>
-</ul>
-
-</details>
-
-<details>
-<summary><strong>Recursion & Backtracking</strong></summary>
-
-[Combinations](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Combinations.md)   
-
-</details>
+[0001. Sum of positive](/Data%20Structure%20and%20Algorithms/Beginners/0001.%20Sum%20of%20positive.md)  
+[0002. Return Negative](/Data%20Structure%20and%20Algorithms/Beginners/0002.%20Return%20Negative.md)  
+[0003. Opposite number](/Data%20Structure%20and%20Algorithms/Beginners/0003.%20Opposite%20number.md)  
+[0004. Remove First and Last Character](/Data%20Structure%20and%20Algorithms/Beginners/0004.%20Remove%20First%20and%20Last%20Character.md)  
+[0005. Reversed String](/Data%20Structure%20and%20Algorithms/Beginners/0005.%20Reversed%20String.md)  
+[0006. String repeat](/Data%20Structure%20and%20Algorithms/Beginners/0006.%20String%20repeat.md)  
+[0026. Replace Character](/Data%20Structure%20and%20Algorithms/Beginners/0026.%20Replace%20Character.md)  
+[0027. Consecutive Duplicates with Count](/Data%20Structure%20and%20Algorithms/Beginners/0027.%20Consecutive%20Duplicates%20with%20Count.md)  
+[0028. toCamelCase](/Data%20Structure%20and%20Algorithms/Beginners/0028.%20toCamelCase.md)  
+[0029. Dig pow](/Data%20Structure%20and%20Algorithms/Beginners/0029.%20Dig%20pow.md)  
+[0030. Equal Sides Of An Array](/Data%20Structure%20and%20Algorithms/Beginners/0030.%20Equal%20Sides%20Of%20An%20Array.md)  
+[0031. Match Strings](/Data%20Structure%20and%20Algorithms/Beginners/0031.%20Match%20Strings.md)  
+[07. Find the smallest integer in the array](/Data%20Structure%20and%20Algorithms/Beginners/07.%20Find%20the%20smallest%20integer%20in%20the%20array.md)  
+[08.  Square Every Digit](/Data%20Structure%20and%20Algorithms/Beginners/08.%20%20Square%20Every%20Digit.md)  
+[09. Remove all vowels from string](/Data%20Structure%20and%20Algorithms/Beginners/09.%20Remove%20all%20vowels%20from%20string.md)  
+[10. Highest and Lowest](/Data%20Structure%20and%20Algorithms/Beginners/10.%20Highest%20and%20Lowest.md)  
+[11. Descending Order](/Data%20Structure%20and%20Algorithms/Beginners/11.%20Descending%20Order.md)  
+[12. Mumbling](/Data%20Structure%20and%20Algorithms/Beginners/12.%20Mumbling.md)  
+[13. Get the middle string](/Data%20Structure%20and%20Algorithms/Beginners/13.%20Get%20the%20middle%20string.md)  
+[14. Check if a number is square](/Data%20Structure%20and%20Algorithms/Beginners/14.%20Check%20if%20a%20number%20is%20square.md)  
+[15. Isograms](/Data%20Structure%20and%20Algorithms/Beginners/15.%20Isograms.md)  
+[16. Exes and Ohs](/Data%20Structure%20and%20Algorithms/Beginners/16.%20Exes%20and%20Ohs.md)  
+[17. Jaden Casing Strings](/Data%20Structure%20and%20Algorithms/Beginners/17.%20Jaden%20Casing%20Strings.md)  
+[18. Length of the shortest word in a string](/Data%20Structure%20and%20Algorithms/Beginners/18.%20Length%20of%20the%20shortest%20word%20in%20a%20string.md)  
+[19. Reverse a string from a given index](/Data%20Structure%20and%20Algorithms/Beginners/19.%20Reverse%20a%20string%20from%20a%20given%20index.md)  
+[20. Credit card mask](/Data%20Structure%20and%20Algorithms/Beginners/20.%20Credit%20card%20mask.md)  
+[21. Two to one](/Data%20Structure%20and%20Algorithms/Beginners/21.%20Two%20to%20one.md)  
+[22. Categorize New Member](/Data%20Structure%20and%20Algorithms/Beginners/22.%20Categorize%20New%20Member.md)  
+[23. Find the odd int](/Data%20Structure%20and%20Algorithms/Beginners/23.%20Find%20the%20odd%20int.md)  
+[24. Sum of Digits](/Data%20Structure%20and%20Algorithms/Beginners/24.%20Sum%20of%20Digits.md)  
+[25. Stop gninnipS My sdroW](/Data%20Structure%20and%20Algorithms/Beginners/25.%20Stop%20gninnipS%20My%20sdroW.md)  
 
 
-<details>
-<summary><strong>BFS & DFS</strong></summary>
-
-[Flood Fill](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Flood%20Fill.md)       
-[Max Area of Island](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Max%20Area%20of%20Island.md)     
-[Merge Two Binary Trees](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Merge%20Two%20Binary%20Trees.md)     
-[Populating Next Right Pointers in Each Node](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Populating%20Next%20Right%20Pointers%20in%20Each%20Node.md)         
-[01 Matrix](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/01%20Matrix.md)   
-[Rotting Oranges](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Rotting%20Oranges.md)   
-[Number of Islands](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Number%20of%20Islands.md)    
-[Minimum Knight Moves](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Minimum%20Knight%20Moves.md)     
-
-</details>
-
-<details>
-<summary><strong>Binary Search</strong></summary>
-
-[Binary Search](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Binary%20Search.md)    
-[Find First and Last Position of Element in Sorted Array](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md)     
-[Search in Rotated Sorted Array](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Search%20in%20Rotated%20Sorted%20Array.md)   
-[Find Peak Element](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Find%20Peak%20Element.md)
-
-</details>
-
-<details>
-<summary><strong>Database Management</strong></summary>
-  
-[Unit 2 Exploring Databases and SQL](https://github.com/cheatsheet1999/FrontEndCollection/issues/45)   
-[ER diagram, Relational Algebra, SQL / NOSQL](https://github.com/cheatsheet1999/FrontEndCollection/issues/14)     
-[Unit 3: Data Storage](https://github.com/cheatsheet1999/FrontEndCollection/issues/43)     
-[Unit 4: Data Indexing](https://github.com/cheatsheet1999/FrontEndCollection/issues/35)     
-[Unit 5: Transactions and Recovery](https://github.com/cheatsheet1999/FrontEndCollection/issues/39) 
-[Unit 6: Concurrency](https://github.com/cheatsheet1999/FrontEndCollection/issues/40)   
-[Unit 1 - 6 Practice Questions Solutions](https://github.com/cheatsheet1999/FrontEndCollection/issues/47) 
-
-</details>
-
-
-<details>
-  <summary><strong>TikTok 🎶</strong></summary>
-  
-  [Count Analogous Array](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Count%20Analogous%20Array.md)  
-  [Is this a tree](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Is%20this%20a%20tree.md)  
-  [Longest String Chain](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Longest%20String%20Chain.md)  
-  [Fizz Buzz](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Fizz%20Buzz.md)   
-  [Last and Second Last](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Last%20and%20Second%20Last.md)  
-  [Custom Sorted Array](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Custom%20Sorted%20Array.md)      
-  [Gas Station](https://github.com/cheatsheet1999/FrontEndCollection/issues/15)  
-  [Minimum Number of Steps to Make Two Strings Anagram](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram.md)     
-  [Count Binary Substrings](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Count%20Binary%20Substrings.md)    
-  [Anagram Difference](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Anagram%20Difference.md)    
-  [Counting Analogous Arrays](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Counting%20Analogous%20Arrays.md)  
-  [Reformat Date](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Reformat%20Date.md)    
-  [Alaaddin Carpet](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Alaaddin%20Carpet.md)    
-  [Reaching Points](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/Reaching%20Points.md)   
-  [OA with not answers](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Algo/OA%20with%20not%20answers.md)   
-  
-</details>
 
 
 ***
