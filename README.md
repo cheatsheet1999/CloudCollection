@@ -1,45 +1,6 @@
 # CloudCollection (Keep updating everyday, hopefully...)
 
-## Web Development Basics
-[1. What happens when you type in a URL](https://github.com/cheatsheet1999/FrontEndCollection/issues/2)  
-[2. GET vs POST](https://github.com/cheatsheet1999/FrontEndCollection/issues/4)  
-<a href="https://github.com/cheatsheet1999/FrontEndCollection/issues/5">3. What can we do to improve a website's performance?</a>  
-<a href="https://github.com/cheatsheet1999/FrontEndCollection/issues/6">4. HTML5 offline storage mechanism</a>  
-[5. Common time and space-complexity](https://github.com/cheatsheet1999/FrontEndCollection/issues/9)  
-[6. What has been deprecated, and what is new on HTML5?](https://github.com/cheatsheet1999/FrontEndCollection/issues/11)  
-[7. How the DOM really works?](https://github.com/cheatsheet1999/FrontEndCollection/issues/18)  
-[8. Inline elements, Block elements, and what are the differences?](https://github.com/cheatsheet1999/FrontEndCollection/issues/27)  
-[9. Several ways to call a function](https://github.com/cheatsheet1999/FrontEndCollection/issues/28)  
-[10. A brief introduction of the differences between "src" and "href"](https://github.com/cheatsheet1999/FrontEndCollection/issues/29)  
-[11. A brief introduction of Call, Apply, Bind](https://github.com/cheatsheet1999/FrontEndCollection/issues/30)  
-[12. Time and space complexity for common sorting algorithm](https://github.com/cheatsheet1999/FrontEndCollection/issues/9)  
-[13. What is the difference between display:none and visibility:hidden style?](https://github.com/cheatsheet1999/FrontEndCollection/issues/37)  
-[14. What is BFC(Block Formatting Context)](https://github.com/cheatsheet1999/FrontEndCollection/issues/38)
-
-### JavaScript Concepts 📦
-[1. `this` keyword](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/Web-Note/%60this%60%20keyword.md)   
-[2. Bubbling and Capturing](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/Web-Note/Bubbling%20and%20Capturing.md)   
-[3. Execution Context](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/Web-Note/Execution%20Context.md)   
-[4. Higher Order Function](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/Web-Note/Functions%20%26%20Callbacks.md)      
-[5. Event Loop](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/Web-Note/Single%20Thread,%20Event%20Loop%20&%20Blocking%20Code.md)      
-[6. Closures](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/Web-Note/Closures.md)   
-[7. Throttling and Debouncing](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/Web-Note/Throttling%20and%20Debouncing.md)   
-[8. Promises](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/Web-Note/Promises.md) 
-[9. Consuming Promises](https://github.com/cheatsheet1999/FrontEndCollection/tree/main/JS-Day/Consuming%20Promises)      
-[10. Controlled Components](https://github.com/cheatsheet1999/FrontEndCollection/tree/main/Web-Note/Controlled%20Components)   
-[11. ExpenseTracker](https://github.com/cheatsheet1999/FrontEndCollection/tree/main/React/ExpenseTracker)    
-[12. Receive input](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Day/Receive%20input/preview.md)     
-[13. Accordion](https://github.com/cheatsheet1999/FrontEndCollection/issues/17)   
-[14. ModalBox](https://github.com/cheatsheet1999/FrontEndCollection/issues/23)  
-[15. Drum Kit](https://github.com/cheatsheet1999/FrontEndCollection/tree/main/JS-Day/DrumKit)  
-[16. Mini Clock](https://github.com/cheatsheet1999/FrontEndCollection/tree/main/JS-Day/Mini%20Clock)  
-[17. Playing with Variables](https://github.com/siyuan25/FrontEndCollection/tree/main/JS-Day/Playing%20with%20Variables)  
-### Deep Dive in Javascript 
-[18. Implement Curry()](https://github.com/cheatsheet1999/FrontEndCollection/issues/33)   
-[19. implement Array.prototype.flat()](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Core/implement%20Array.prototype.flat().md)  
-[20. Implement curry() with placeholder support](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Core/implement%20curry()%20with%20placeholder%20support.md)
-
-## System Design
+## System Design (WIP)
 
 ### System Design Course
 
@@ -242,6 +203,44 @@
 [25. Stop gninnipS My sdroW](/Data%20Structure%20and%20Algorithms/Beginners/25.%20Stop%20gninnipS%20My%20sdroW.md)  
 
 
+## Web Development Basics
+[1. What happens when you type in a URL](https://github.com/cheatsheet1999/FrontEndCollection/issues/2)  
+[2. GET vs POST](https://github.com/cheatsheet1999/FrontEndCollection/issues/4)  
+<a href="https://github.com/cheatsheet1999/FrontEndCollection/issues/5">3. What can we do to improve a website's performance?</a>  
+<a href="https://github.com/cheatsheet1999/FrontEndCollection/issues/6">4. HTML5 offline storage mechanism</a>  
+[5. Common time and space-complexity](https://github.com/cheatsheet1999/FrontEndCollection/issues/9)  
+[6. What has been deprecated, and what is new on HTML5?](https://github.com/cheatsheet1999/FrontEndCollection/issues/11)  
+[7. How the DOM really works?](https://github.com/cheatsheet1999/FrontEndCollection/issues/18)  
+[8. Inline elements, Block elements, and what are the differences?](https://github.com/cheatsheet1999/FrontEndCollection/issues/27)  
+[9. Several ways to call a function](https://github.com/cheatsheet1999/FrontEndCollection/issues/28)  
+[10. A brief introduction of the differences between "src" and "href"](https://github.com/cheatsheet1999/FrontEndCollection/issues/29)  
+[11. A brief introduction of Call, Apply, Bind](https://github.com/cheatsheet1999/FrontEndCollection/issues/30)  
+[12. Time and space complexity for common sorting algorithm](https://github.com/cheatsheet1999/FrontEndCollection/issues/9)  
+[13. What is the difference between display:none and visibility:hidden style?](https://github.com/cheatsheet1999/FrontEndCollection/issues/37)  
+[14. What is BFC(Block Formatting Context)](https://github.com/cheatsheet1999/FrontEndCollection/issues/38)
+
+### JavaScript Concepts 📦
+[1. `this` keyword](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/Web-Note/%60this%60%20keyword.md)   
+[2. Bubbling and Capturing](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/Web-Note/Bubbling%20and%20Capturing.md)   
+[3. Execution Context](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/Web-Note/Execution%20Context.md)   
+[4. Higher Order Function](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/Web-Note/Functions%20%26%20Callbacks.md)      
+[5. Event Loop](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/Web-Note/Single%20Thread,%20Event%20Loop%20&%20Blocking%20Code.md)      
+[6. Closures](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/Web-Note/Closures.md)   
+[7. Throttling and Debouncing](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/Web-Note/Throttling%20and%20Debouncing.md)   
+[8. Promises](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/Web-Note/Promises.md) 
+[9. Consuming Promises](https://github.com/cheatsheet1999/FrontEndCollection/tree/main/JS-Day/Consuming%20Promises)      
+[10. Controlled Components](https://github.com/cheatsheet1999/FrontEndCollection/tree/main/Web-Note/Controlled%20Components)   
+[11. ExpenseTracker](https://github.com/cheatsheet1999/FrontEndCollection/tree/main/React/ExpenseTracker)    
+[12. Receive input](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Day/Receive%20input/preview.md)     
+[13. Accordion](https://github.com/cheatsheet1999/FrontEndCollection/issues/17)   
+[14. ModalBox](https://github.com/cheatsheet1999/FrontEndCollection/issues/23)  
+[15. Drum Kit](https://github.com/cheatsheet1999/FrontEndCollection/tree/main/JS-Day/DrumKit)  
+[16. Mini Clock](https://github.com/cheatsheet1999/FrontEndCollection/tree/main/JS-Day/Mini%20Clock)  
+[17. Playing with Variables](https://github.com/siyuan25/FrontEndCollection/tree/main/JS-Day/Playing%20with%20Variables)  
+### Deep Dive in Javascript 
+[18. Implement Curry()](https://github.com/cheatsheet1999/FrontEndCollection/issues/33)   
+[19. implement Array.prototype.flat()](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Core/implement%20Array.prototype.flat().md)  
+[20. Implement curry() with placeholder support](https://github.com/cheatsheet1999/FrontEndCollection/blob/main/JS-Core/implement%20curry()%20with%20placeholder%20support.md)
 
 
 
