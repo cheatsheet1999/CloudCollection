@@ -1,4 +1,4 @@
-# CloudCollection (Keep updating everyday, hopefully...)
+# CloudCollection
 
 ## System Design (WIP)
 
