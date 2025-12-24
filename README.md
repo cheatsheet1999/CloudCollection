@@ -13,7 +13,9 @@
 [002. Design a Parking Lot System](/System%20Design/System%20Design%20in%20Real%20World/002.%20Design%20a%20Parking%20Lot%20System.md)  
 [003. Design a Fitness Tracking App](/System%20Design/System%20Design%20in%20Real%20World/003.%20Design%20a%20Fitness%20Tracking%20App.md)  
 [004. Design a Weather Reporting System](/System%20Design/System%20Design%20in%20Real%20World/004.%20Design%20a%20Weather%20Reporting%20System.md)  
-
+[005. Design Pastebin](/System%20Design/System%20Design%20in%20Real%20World/005.%20Design%20Pastebin.md)
+[006.Design a Nested Comments System](/System%20Design/System%20Design%20in%20Real%20World/006.Design%20a%20Nested%20Comments%20System.md)
+[007.Design an Online Presence Indicator Service](/System%20Design/System%20Design%20in%20Real%20World/007.Design%20an%20Online%20Presence%20Indicator%20Service.md)
 
 ## Data Structure and Algorithms
 ### Array & Two Pointers
